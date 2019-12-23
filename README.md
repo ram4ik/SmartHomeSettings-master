@@ -1,3 +1,1 @@
-Want to know how to create this?
-
-Read the full article here htts://www.liquidcoder.com/swiftui-smarthomesettings-ui
+![](https://github.com/ram4ik/SmartHomeSettings-master/blob/master/SmartHomeSetting/Assets.xcassets/Screenshot%202019-12-23%20at%2010.38.49.imageset/Screenshot%202019-12-23%20at%2010.38.49.png)
